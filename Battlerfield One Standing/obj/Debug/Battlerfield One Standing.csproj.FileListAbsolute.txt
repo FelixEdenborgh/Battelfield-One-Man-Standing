@@ -1,0 +1,8 @@
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\bin\Debug\Battlerfield One Standing.exe.config
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\bin\Debug\Battlerfield One Standing.exe
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\bin\Debug\Battlerfield One Standing.pdb
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\obj\Debug\Battlerfield One Standing.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\obj\Debug\Battlerfield One Standing.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\obj\Debug\Battlerfield One Standing.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\obj\Debug\Battlerfield One Standing.exe
+C:\Users\FelixEdenborgh\Documents\Csharp\Battlerfield One Standing\Battlerfield One Standing\obj\Debug\Battlerfield One Standing.pdb
